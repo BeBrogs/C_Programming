@@ -1,0 +1,5 @@
+A c file ends in .c
+	<file_name>.c
+
+A c file is compiled using cc
+	cc <file_name>.c
